@@ -1,4 +1,4 @@
-package healthstack.sample.registration
+package com.dialog.researchapp.registration
 
 sealed class RegistrationState {
     object Init : RegistrationState()

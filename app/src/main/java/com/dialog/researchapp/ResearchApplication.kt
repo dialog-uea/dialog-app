@@ -1,4 +1,4 @@
-package healthstack.sample
+package com.dialog.researchapp
 
 import android.app.Application
 import androidx.health.connect.client.HealthConnectClient
@@ -13,6 +13,7 @@ import healthstack.kit.notification.NotificationUtils
 import healthstack.kit.sensor.AudioRecorder
 import healthstack.kit.sensor.SensorUtils
 import healthstack.kit.sensor.SpeechRecognitionManager
+import com.dialog.researchapp.R
 
 @HiltAndroidApp
 class ResearchApplication : Application() {

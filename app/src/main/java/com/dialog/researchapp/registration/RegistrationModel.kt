@@ -1,4 +1,4 @@
-package healthstack.sample.registration
+package com.dialog.researchapp.registration
 
 import healthstack.kit.task.base.StepModel
 import healthstack.kit.task.survey.question.model.QuestionModel

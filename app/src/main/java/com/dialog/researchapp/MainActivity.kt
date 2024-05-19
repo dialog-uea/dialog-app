@@ -1,4 +1,4 @@
-package healthstack.sample
+package com.dialog.researchapp
 
 import android.annotation.SuppressLint
 import android.content.Context

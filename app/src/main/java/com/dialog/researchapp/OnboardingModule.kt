@@ -1,4 +1,4 @@
-package healthstack.sample
+package com.dialog.researchapp
 
 import android.content.Context
 import android.content.res.Configuration
@@ -35,9 +35,9 @@ import healthstack.kit.task.survey.question.model.QuestionModel
 import healthstack.kit.theme.AppColors
 import healthstack.kit.theme.mainDarkColors
 import healthstack.kit.theme.mainLightColors
-import healthstack.sample.R.drawable
-import healthstack.sample.registration.RegistrationModel
-import healthstack.sample.registration.RegistrationStep
+import com.dialog.researchapp.R.drawable
+import com.dialog.researchapp.registration.RegistrationModel
+import com.dialog.researchapp.registration.RegistrationStep
 import javax.inject.Singleton
 
 @Module

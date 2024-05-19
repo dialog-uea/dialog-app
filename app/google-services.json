@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "551737526421",
+    "project_id": "dialogtest-43b23",
+    "storage_bucket": "dialogtest-43b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551737526421:android:6c34d618660659ac80f39c",
+        "android_client_info": {
+          "package_name": "com.dialog.researchapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcE0k79Ai3MLafkZhxtAj4M4FgDimDtF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551737526421:android:e2fd0a107a9cb56980f39c",
+        "android_client_info": {
+          "package_name": "healthstack.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcE0k79Ai3MLafkZhxtAj4M4FgDimDtF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

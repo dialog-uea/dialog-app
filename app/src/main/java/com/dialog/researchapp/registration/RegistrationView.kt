@@ -1,4 +1,4 @@
-package healthstack.sample.registration
+package com.dialog.researchapp.registration
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -18,10 +18,10 @@ import healthstack.kit.task.base.CallbackCollection
 import healthstack.kit.task.base.View
 import healthstack.kit.task.survey.question.SubStepHolder
 import healthstack.kit.theme.AppTheme
-import healthstack.sample.registration.RegistrationState.Failed
-import healthstack.sample.registration.RegistrationState.Init
-import healthstack.sample.registration.RegistrationState.Loading
-import healthstack.sample.registration.RegistrationState.Success
+import com.dialog.researchapp.registration.RegistrationState.Failed
+import com.dialog.researchapp.registration.RegistrationState.Init
+import com.dialog.researchapp.registration.RegistrationState.Loading
+import com.dialog.researchapp.registration.RegistrationState.Success
 
 class RegistrationView(
     private val viewModel: RegistrationViewModel = RegistrationViewModel(),

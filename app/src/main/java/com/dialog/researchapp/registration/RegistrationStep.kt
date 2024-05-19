@@ -1,4 +1,4 @@
-package healthstack.sample.registration
+package com.dialog.researchapp.registration
 
 import androidx.compose.runtime.Composable
 import healthstack.kit.task.base.CallbackCollection

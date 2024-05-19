@@ -10,7 +10,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "healthstack.sample"
+        applicationId = "com.dialog.researchapp"
         minSdk = 29
         targetSdk = 34
     }

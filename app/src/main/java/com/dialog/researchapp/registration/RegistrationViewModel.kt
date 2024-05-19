@@ -1,15 +1,15 @@
-package healthstack.sample.registration
+package com.dialog.researchapp.registration
 
 import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.dialog.researchapp.registration.RegistrationState.Failed
+import com.dialog.researchapp.registration.RegistrationState.Init
+import com.dialog.researchapp.registration.RegistrationState.Loading
+import com.dialog.researchapp.registration.RegistrationState.Success
 import com.google.firebase.auth.FirebaseAuth
 import healthstack.backend.integration.BackendFacadeHolder
 import healthstack.backend.integration.exception.UserAlreadyExistsException
-import healthstack.sample.registration.RegistrationState.Failed
-import healthstack.sample.registration.RegistrationState.Init
-import healthstack.sample.registration.RegistrationState.Loading
-import healthstack.sample.registration.RegistrationState.Success
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
