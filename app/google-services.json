@@ -12,7 +12,20 @@
           "package_name": "com.dialog.researchapp"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "551737526421-f2g0h7tij72t1u1gqka5tko4b5msn9s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dialog.researchapp",
+            "certificate_hash": "13c698029d29759c9fc4342cb2a78fd4408be5c5"
+          }
+        },
+        {
+          "client_id": "551737526421-qc69orfs3136a6nctfpemrkho283qlvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBcE0k79Ai3MLafkZhxtAj4M4FgDimDtF0"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551737526421-qc69orfs3136a6nctfpemrkho283qlvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     },
@@ -31,7 +49,12 @@
           "package_name": "healthstack.sample"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "551737526421-qc69orfs3136a6nctfpemrkho283qlvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBcE0k79Ai3MLafkZhxtAj4M4FgDimDtF0"
@@ -39,7 +62,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551737526421-qc69orfs3136a6nctfpemrkho283qlvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
